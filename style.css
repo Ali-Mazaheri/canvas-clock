@@ -1,0 +1,14 @@
+.canvas{
+  display:block;
+  margin: 10px;
+}
+
+.clock{
+  text-align:center;
+  display: inline-block;
+}
+
+.clock span {
+  font-weight: bold;
+  user-select: none;
+}
